@@ -1,0 +1,162 @@
+[
+  {
+    "question": "ما اسم الحزب الذي تأسس سنة 1943 بدعم من محمد الخامس؟",
+    "type": "options",
+    "choices": ["حزب الاستقلال", "كتلة العمل الوطني", "حزب الشورى", "حزب التحرير"],
+    "correctIndex": 0,
+    "context": "تأسيس أحزاب وطنية خلال الأربعينيات"
+  },
+  {
+    "question": "حدد العوامل الخارجية التي ساهمت في المطالبة بالاستقلال:",
+    "type": "multi_select",
+    "options": [
+      {"text": "الحرب العالمية الثانية", "value": "war"},
+      {"text": "الميثاق الأطلسي", "value": "charter"},
+      {"text": "مؤتمر أنفا", "value": "conference"},
+      {"text": "الثورة الصناعية", "value": "industry"}
+    ],
+    "correctAnswers": ["war", "charter", "conference"],
+    "context": "تأثير السياق الدولي على الحركة الوطنية"
+  },
+  {
+    "question": "هل تم استرجاع منطقة سيدي إفني عبر المفاوضات؟",
+    "type": "true_false",
+    "correctAnswer": false,
+    "context": "استُرجعت عبر اللجوء إلى الأمم المتحدة عام 1969"
+  },
+  {
+    "question": "ما هي المدة التي قضاها محمد الخامس في المنفى؟",
+    "type": "options",
+    "choices": ["سنتان", "3 سنوات", "عام واحد", "4 سنوات"],
+    "correctIndex": 0,
+    "context": "نفي السلطان من 1953 إلى 1955"
+  },
+  {
+    "question": "ما هو الهدف الرئيسي من المدارس الحرة؟",
+    "type": "text",
+    "correctAnswer": "نشر الثقافة العربية الإسلامية",
+    "alternativeAnswers": ["محاربة التعليم الفرنسي", "تدريب المقاومين"],
+    "context": "أحد وسائل الحركة الوطنية الثقافية"
+  },
+  {
+    "question": "حدد المناطق التي استرجعها المغرب عبر المفاوضات:",
+    "type": "multi_select",
+    "options": [
+      {"text": "الشمال", "value": "north"},
+      {"text": "طنجة", "value": "tangier"},
+      {"text": "الساقية الحمراء", "value": "sakia"},
+      {"text": "طرفاية", "value": "tarfaia"}
+    ],
+    "correctAnswers": ["north", "tangier", "tarfaia"],
+    "context": "الاسترجاع الدبلوماسي بين 1956-1958"
+  },
+  {
+    "question": "هل شاركت إسبانيا في مفاوضات إكس ليبان؟",
+    "type": "true_false",
+    "correctAnswer": false,
+    "context": "المفاوضات كانت مع فرنسا فقط"
+  },
+  {
+    "question": "ما هو تاريخ استرجاع وادي الذهب؟",
+    "type": "text",
+    "correctAnswer": "1979",
+    "alternativeAnswers": ["1975", "1981"],
+    "context": "آخر مراحل الاستكمال الترابي"
+  },
+  {
+    "question": "ما عدد القتلى في أحداث بوفكران؟",
+    "type": "options",
+    "choices": ["مئات", "آلاف", "عشرات", "لم يُسجل"],
+    "correctIndex": 0,
+    "context": "أحداث دموية ضد المتظاهرين سنة 1937"
+  },
+  {
+    "question": "ما اسم الخطاب الذي ألقاه محمد الخامس رفضًا للاستعمار؟",
+    "type": "text",
+    "correctAnswer": "خطاب طنجة",
+    "alternativeAnswers": ["خطاب العرش", "خطاب الاستقلال"],
+    "context": "خطاب تاريخي سنة 1947"
+  },
+  {
+    "question": "ما هو العام الذي شهد بداية الحركة الوطنية المغربية؟",
+    "type": "options",
+    "choices": ["1920", "1930", "1940", "1950"],
+    "correctIndex": 1,
+    "context": "نشأت الحركة الوطنية مطلع ثلاثينيات القرن العشرين"
+  },
+  {
+    "question": "حدد وسائل عمل الحركة الوطنية في الثلاثينيات:",
+    "type": "multi_select",
+    "options": [
+      {"text": "إصدار الجرائد", "value": "media"},
+      {"text": "تأسيس الأحزاب", "value": "parties"},
+      {"text": "الكفاح المسلح", "value": "military"},
+      {"text": "إنشاء المدارس الحرة", "value": "schools"}
+    ],
+    "correctAnswers": ["media", "parties", "schools"],
+    "context": "وسائل العمل السياسي والثقافي"
+  },
+  {
+    "question": "هل قدمت الحركة الوطنية وثيقة المطالبة بالاستقلال سنة 1934؟",
+    "type": "true_false",
+    "correctAnswer": false,
+    "context": "وُقِّعت وثيقة المطالبة بالاستقلال سنة 1944"
+  },
+  {
+    "question": "ما هي المنطقة التي استرجعها المغرب عبر المسيرة الخضراء؟",
+    "type": "options",
+    "choices": ["طرفاية", "الساقية الحمراء", "وادي الذهب", "سيدي إفني"],
+    "correctIndex": 1,
+    "context": "المسيرة الخضراء سنة 1975"
+  },
+  {
+    "question": "حدد الأحداث المرتبطة بثورة الملك والشعب:",
+    "type": "multi_select",
+    "options": [
+      {"text": "نفي محمد الخامس", "value": "exile"},
+      {"text": "تأسيس جيش التحرير", "value": "army"},
+      {"text": "مفاوضات إكس ليبان", "value": "negotiations"},
+      {"text": "استرجاع طنجة", "value": "tangier"}
+    ],
+    "correctAnswers": ["exile", "army", "negotiations"],
+    "context": "أحداث 1953-1955"
+  },
+  {
+    "question": "هل استُخدمت المفاوضات فقط في استكمال الوحدة الترابية؟",
+    "type": "true_false",
+    "correctAnswer": false,
+    "context": "شملت أساليب دبلوماسية وعسكرية"
+  },
+  {
+    "question": "ما هي أول منطقة استرجعها المغرب بعد الاستقلال؟",
+    "type": "options",
+    "choices": ["طنجة", "الشمال", "طرفاية", "سيدي إفني"],
+    "correctIndex": 1,
+    "context": "استرجاع الشمال أبريل 1956"
+  },
+  {
+    "question": "حدد التطورات في أربعينيات القرن العشرين:",
+    "type": "multi_select",
+    "options": [
+      {"text": "وثيقة المطالبة بالاستقلال", "value": "document"},
+      {"text": "تأسيس حزب الاستقلال", "value": "party"},
+      {"text": "الميثاق الأطلسي", "value": "atlantic"},
+      {"text": "المسيرة الخضراء", "value": "march"}
+    ],
+    "correctAnswers": ["document", "party", "atlantic"],
+    "context": "أبرز أحداث الأربعينيات"
+  },
+  {
+    "question": "هل شارك محمد الخامس في مفاوضات إكس ليبان؟",
+    "type": "true_false",
+    "correctAnswer": false,
+    "context": "كان منفيًا أثناء المفاوضات"
+  },
+  {
+    "question": "ما هو تاريخ إلغاء الحماية الفرنسية؟",
+    "type": "options",
+    "choices": ["2 مارس 1956", "16 نوفمبر 1955", "6 نوفمبر 1975", "1957"],
+    "correctIndex": 0,
+    "context": "معاهدة سان كلود"
+  }
+]
